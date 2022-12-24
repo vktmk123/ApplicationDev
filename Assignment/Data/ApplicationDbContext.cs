@@ -178,9 +178,9 @@ namespace Assignment.Data
                 new Book
                 {
                     Id = 3,
-                    Title = "Làm ĐĨ",
+                    Title = "C# book",
                     Price = 500,
-                    Image = "https://sach86.com/wp-content/uploads/2020/10/Lam-Di.jpg",
+                    Image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhN3A-fGPBHEBNaFFdpeDY9rr3n34jWylMEg&usqp=CAU",
                     Quantity = 30,
                     CategoryId = 3,
                     AuthorId = 2
@@ -188,9 +188,9 @@ namespace Assignment.Data
                 new Book
                 {
                     Id = 4,
-                    Title = "The Hunger Games",
+                    Title = "Best english book",
                     Price = 200,
-                    Image = "https://cdn.vox-cdn.com/thumbor/dyjy2i3y73CS3m1uHvkgFMEJzqE=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21960146/61JfGcL2ljL.jpg",
+                    Image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFrRPIX8FeWA8QgN9bH8aDAgXKsg38maanA&usqp=CAU",
                     Quantity = 30,
                     CategoryId = 4,
                     AuthorId = 3
