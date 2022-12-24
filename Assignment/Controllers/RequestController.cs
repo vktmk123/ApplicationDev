@@ -37,7 +37,7 @@ namespace Assignment.Controllers
         {
             if (ModelState.IsValid)
             {
-                //request.Status = false;
+                request.Status = false;
                 context.Add(request);
                 context.SaveChanges();
                 
