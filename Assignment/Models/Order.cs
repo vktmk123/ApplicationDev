@@ -11,7 +11,6 @@ namespace Assignment.Models
 
         public string Title { get; set; }
 
-        //Order - Mobile: Many To One
         public Book Book { get; set; }  
         public string UserEmail { get; set; }
 
